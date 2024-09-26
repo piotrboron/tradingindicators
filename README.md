@@ -4,7 +4,7 @@ I previously ran an online store that allowed me to combine my passion for tradi
 
 Driven by my interest in cTrader, I delved into developing cBots using Spotware’s cAPI, creating simple trading strategies. These cBots, equipped with built-in backtesting panels, were designed to be accessible, enabling anyone to download, modify, and enhance them for more effective and profitable trading outcomes.
 
-# challenges : 
+# challenges && problems : 
 
 Doing this kind of business, it's hard to come to an agreement with payment operators. For this reason, the store was closed irretrievably.
 
