@@ -7,3 +7,6 @@ The store offered trading indicators written in the PineScript language, which a
 
 Since I really like trading with cTrader from Spotware, I decided to explore the topic of creating cBots.
 With a built-in panel for backtesting strategies and relatively simple programming thanks to cAPI, I created some simple strategies that anyone can download for free and develop to make them more effective and profitable.
+
+# note : 
+All I have is this uncommented mess, I don't support this project anymore
