@@ -12,4 +12,5 @@ Doing this kind of business, it's hard to come to an agreement with payment oper
 This project is no longer actively supported, and the available code is provided as-is. (basically uncommented mess)
 
 # image gallery : 
+check /images folder
 
