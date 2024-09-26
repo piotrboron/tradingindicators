@@ -1,12 +1,12 @@
 # tradingindicators
 
-I had a store that allowed me to monetize my interest in the topic of trading and trading indicators.
-There were proprietary trading indicators, my original book on creating cryptocurrencies and free bases for creating trading bots for Spotware cTrader.
+I previously ran an online store that allowed me to combine my passion for trading and algorithmic indicators. The store featured a range of proprietary trading indicators written in PineScript, focusing on strategies based on Stochastic RSI, TMA, and MA. Alongside these, I authored an original book on cryptocurrency creation and offered free resources for building trading bots on Spotware’s cTrader platform.
 
-The store offered trading indicators written in the PineScript language, which are based on the Stochastic RSI, TMA and MA.
+Driven by my interest in cTrader, I delved into developing cBots using Spotware’s cAPI, creating simple trading strategies. These cBots, equipped with built-in backtesting panels, were designed to be accessible, enabling anyone to download, modify, and enhance them for more effective and profitable trading outcomes.
 
-Since I really like trading with cTrader from Spotware, I decided to explore the topic of creating cBots.
-With a built-in panel for backtesting strategies and relatively simple programming thanks to cAPI, I created some simple strategies that anyone can download for free and develop to make them more effective and profitable.
+# challenges : 
+
+Doing this kind of business, it's hard to come to an agreement with payment operators. For this reason, the store was closed irretrievably.
 
 # note : 
-All I have is this uncommented mess, I don't support this project anymore
+This project is no longer actively supported, and the available code is provided as-is. (basically uncommented mess)
